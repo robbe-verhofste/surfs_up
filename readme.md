@@ -8,16 +8,25 @@ The purpose of this assignment was to support a business developer in analyzing 
 
 #### Temperature for hottest and coolest months
 
+
+
 | Statistics    | June Temperature | December Temperature |
 | ------------- | ---------------- | -------------------- |
 | Minimum Value | 64&deg;F         | 56&deg;F             |
 | Maximum Value | 85&deg;F         | 83&deg;F             |
 | Average Value | 74&deg;F         | 71&deg;F             |
 
-#### Histogram of temperature for hottest and coolest months
-![June Temperatures](https://github.com/tograh/testrepository/3DTest.png 933)
 
-![December_Temperatures](https://github.com/tograh/testrepository/3DTest.png 933)
+June Statistics            |  December Statistics
+:-------------------------:|:-------------------------:
+![June Temperatures](https://github.com/robbe-verhofste/surfs_up/blob/main/Resources/June_stats.PNG)  |  ![December_Temperatures](https://github.com/robbe-verhofste/surfs_up/blob/main/Resources/December_stats.PNG)
+
+
+
+#### Histogram of temperature for hottest and coolest months
+![June Temperatures](https://github.com/robbe-verhofste/surfs_up/blob/main/Resources/June_histo.PNG)
+
+![December_Temperatures](https://github.com/robbe-verhofste/surfs_up/blob/main/Resources/December_histo.PNG)
 
 
 ## Summary
