@@ -14,7 +14,7 @@ The purpose of this assignment was to support a business developer in analyzing 
 | ------------- | ---------------- | -------------------- |
 | Minimum Value | 64&deg;F         | 56&deg;F             |
 | Maximum Value | 85&deg;F         | 83&deg;F             |
-| Average Value | 74&deg;F         | 71&deg;F             |
+| Average Value | 75&deg;F         | 71&deg;F             |
 
 
 June Statistics            |  December Statistics
@@ -31,4 +31,4 @@ June Statistics            |  December Statistics
 
 ## Summary
 
-- This analysis indicates that the average maximum temperature, and average temperature, for the warmest and coolest months are within 3F of eachother. From experience with icecream, these temperatures are optimal for consuming and selling icecream. During December, minimum temperatures dip to around 56F which could lead to a drop in sales. However, according to the histogram, the number of days that are below 65, even in December, and quite low.
+- This analysis indicates that the average maximum temperature, and average temperature, for the warmest and coolest months are within 3F of eachother. From experience with icecream, these temperatures are optimal for consuming and selling icecream. During December, minimum temperatures dip to around 56F which could lead to a drop in sales. However, according to the histogram, the number of days that are below 65, even in December, and quite low. This analysis could be improved by looking at the entire year, including precipitation data, and researching icecream sales.
